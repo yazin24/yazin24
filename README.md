@@ -1,6 +1,6 @@
 
-<h1 align="left">I'm John Iris Coniendo</h1>
-<h3 align="left">Full Stack Web Developer</h3>
+<h1 align="left">I'm John Iris Coniendo<br><span>Full Stack Web Developer</span></h1>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
